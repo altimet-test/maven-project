@@ -1,19 +1,4 @@
-package com.wipro.app;
-
-// /**
-//  * Hello world!
-//  *
-//  */
-// public class App 
-// {
-//     public static void main( String[] args )
-//     {
-//         System.out.println( "Hello World!" );
-//     }
-// }
-
-// package com.mycompany.app;
-
+package com.mycompany.app;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
